@@ -4,7 +4,7 @@
 
 > Demonstrates how to use React on Rails using api-only mode.
 
-## Link to frontend repo
+## Link to frontend repository
 
 [Frontend repo](https://github.com/ksigei/hello-react-front-end)
 ## Built With
