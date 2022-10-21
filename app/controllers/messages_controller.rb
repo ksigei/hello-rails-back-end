@@ -1,7 +1,7 @@
 class MessagesController < ApplicationController
   def index
     @message = Message.all.sample
-    json_response(@message)
+    render json: @message
   end
 
   def root
